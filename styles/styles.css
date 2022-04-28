@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: #edd9a3;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+img {
+    max-width: 500px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+
+
+
+.link {
+    
+    padding: 20px;
+}
